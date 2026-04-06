@@ -2,7 +2,7 @@
 #include <windows.h> // for MS Windows
 #include <GL/glut.h> // GLUT, include glu.h and gl.h
 #include <cstdio>
-#include <GL/freeglut.h>
+//#include <GL/freeglut.h>
 #include "road.h"
 #include "tree.h"
 #include "lake.h"
